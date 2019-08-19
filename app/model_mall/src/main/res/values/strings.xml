@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ModelMall</string>
+    <string name="text_countdown">跳过</string>
+    <string name="start_experience">开始体验</string>
+    <string name="sendOne">1</string>
+    <string name="sendTwo">2</string>
+    <string name="sendThree">3</string>
+    <string name="sendFour">4</string>
+    <string name="sendFive">5</string>
+    <string name="sendSix">6</string>
+</resources>
